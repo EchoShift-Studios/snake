@@ -1,2 +1,4 @@
 # snake
-We do not guarrantee that this script will work on your PC.
+We do not guarantee that this script will work on your PC.
+
+
